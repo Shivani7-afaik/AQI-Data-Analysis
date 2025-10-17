@@ -21,6 +21,9 @@ It aims to identify pollutant trends, temporal patterns, and regional air qualit
 - Visualized pollutant concentrations and trends  
 - Derived insights into air quality variations across time and regions
 
+## Link to Data Set
+link: https://www.kaggle.com/datasets/saikiranudayana/india-air-quality-index-aqi-dataset-20232025/code
+
 ## Objective
 To understand air quality changes and support environmental awareness through data visualization.
 
